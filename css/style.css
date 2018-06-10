@@ -1,0 +1,14 @@
+a {
+color: red;
+text-decorations:none;
+}
+h1 {
+  font-family: sans-serif;
+  color: #1fd9c7;
+}
+div {
+  width: 500px;
+  margin: auto;
+  background: #d9a71f;
+  text-align: center;
+}
